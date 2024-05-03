@@ -1,7 +1,7 @@
 
 getgenv().Stats = {-- Name, Rebcap, Statcap, Play Solo ONLY?
-    {"Sanji", math.huge, math.huge, false}, 
-    {"Sanji", math.huge, math.huge, false},
+    {"Baolosus", math.huge, math.huge, false}, 
+    {"Baolosus", math.huge, math.huge, false},
 }
 getgenv().WebHooks = {
     ["Stats"] = "https://discord.com/api/webhooks/1235942845228253264/Wjh4G8Br3treraU5m1fMNDU5gCoj5BcP6IWHJP5PZjIbO9FsVLFJ1dp9FLDoxlkNkRfE", -- Do you want to log your stat gain progress?
